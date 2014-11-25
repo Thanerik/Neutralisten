@@ -1,0 +1,30 @@
+17-11-2014 - Version 1.0
+----------
+* Offentlig start af bot i Twitter - med autoopdatering hver 15. minutter
+
+18-11-2014 - Version 1.1
+----------
+* Springer over egen tweets
+* Dropper alle Retweet's
+* Fjerner beskeden "Hvis jeg blander rød og blå får du ", og ender med en ren besked uden ekstra dikkerdatter.
+* Fjerner gåseøjne "" ved hele personens tweet
+* Tilføjer hashtag (#) til alle orde som er blevet rettet
+* Forbedre algorimen om udvælgelse af rette sted at klippe i tweets - så det sker midten i ordrettelsen og ikke fra starten
+
+19-11-2014 - Version 1.2
+----------
+* Ombytte selve ordet i string i stedet for hele string (skolereform => skolenedskæring og ikke skolereform => nedskæring)
+* Springer over "farlige" udsagnsorde som "forsvare" (Skal ikke blive til "militære")
+
+20-11-2014 - Version 1.3
+----------
+* Tilføjer ekstra farlig ord: "frankrig" og "bekrige"
+
+24-11-2014 - Version 1.4
+----------
+* Problem med begrænsning af store tweets rettet! Den outputter [...] den rette sted og klipper de rigtige steder, så de vigtige hashtags fremhæves
+* Også springer over MT's (modificed tweets)
+* Ekstra farlige orde: "fattigdom" og "landstyreformand" ("reform" midt i sætningen...) 
+* Rettet en bug med små/store bogstaver
+* Formindsker autoopdateringer til hver 20. minutter
+* Kun twitter maks. 2 gange pr. opdatering, for at undgå en overflod af tweets fra bottens side. Altså maks 6 gange fra botten pr. time hvis der er match hver gang
