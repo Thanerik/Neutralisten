@@ -28,3 +28,8 @@
 * Rettet en bug med små/store bogstaver
 * Formindsker autoopdateringer til hver 20. minutter
 * Kun twitter maks. 2 gange pr. opdatering, for at undgå en overflod af tweets fra bottens side. Altså maks 6 gange fra botten pr. time hvis der er match hver gang
+
+25-11-2014 - Version 1.5
+----------
+* Indsætter en "svar til ID" query, så vores tweet automatisk bliver til en svar på den andens tweet og ivl blive vist i en tråd.
+* Ændrer RT+MT tjek til API-siden, så vi slipper for at tjekke ordet "RT" i tweets.
