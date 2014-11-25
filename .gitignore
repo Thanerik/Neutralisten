@@ -2,7 +2,7 @@
 ###########
 config.js
 neutraliserne.sublime-project
-/node_modules
+node_modules/
 
 # Beta-dir #
 ############
