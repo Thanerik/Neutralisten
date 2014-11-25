@@ -1,10 +1,5 @@
 // @Source: https://github.com/dariusk/examplebot
 
-// Gmail:   neutraliserne@gmail.com
-// User:    neutraliserne
-// Kode:    WeFromITU
-// Twitter: Neutraliserne 
-
 // Put your own Twitter App keys here. See README.md for more detail.
 module.exports = {
   consumer_key:         '',
