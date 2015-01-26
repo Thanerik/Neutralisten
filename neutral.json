@@ -1,6 +1,5 @@
 {
     "nyOrd": [
-        { "before":"indvandrer" ,   "after":"nydansker" },
         { "before":"nydansker" ,    "after":"indvandrer" },
         { "before":"ghetto" ,       "after":"boligområde" },
         { "before":"ghettoen" ,     "after":"boligområdet" },

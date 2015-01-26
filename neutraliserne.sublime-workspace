@@ -1,0 +1,707 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementById  (function)"
+			],
+			[
+				"twee",
+				"tweetOutput"
+			],
+			[
+				"tweet",
+				"tweetOrd"
+			],
+			[
+				"tw",
+				"tweetOrd"
+			],
+			[
+				"twe",
+				"tweetOutput"
+			],
+			[
+				"p",
+				"PHP_SELF  (variable)"
+			],
+			[
+				"dele",
+				"dele_array"
+			],
+			[
+				"end",
+				"end_dele"
+			],
+			[
+				"up",
+				"upCaser"
+			],
+			[
+				"exce",
+				"exception"
+			],
+			[
+				"expe",
+				"exceptions"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"onmo",
+				"onmouseover  (function)"
+			],
+			[
+				"time",
+				"timeout	setTimeout function"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"high",
+				"highlow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"play",
+				"play"
+			],
+			[
+				"bet",
+				"betItems"
+			],
+			[
+				"remove",
+				"removeEventListener  (function)"
+			],
+			[
+				"no",
+				"noButton"
+			],
+			[
+				"yes",
+				"yesButton"
+			],
+			[
+				"the",
+				"theGradeLine"
+			],
+			[
+				"pla",
+				"playButton"
+			],
+			[
+				"hju",
+				"hjul_top"
+			],
+			[
+				"hjul",
+				"hjul_right"
+			],
+			[
+				"hj",
+				"hjul_right"
+			],
+			[
+				"h",
+				"hjul_top"
+			],
+			[
+				"rand",
+				"randomHelTal"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"im",
+				"img	Tag"
+			],
+			[
+				"butt",
+				"button>  (element)"
+			],
+			[
+				"s",
+				"slice  (function)"
+			],
+			[
+				"head",
+				"head	Tag"
+			],
+			[
+				"random",
+				"randomcount"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"html5",
+				"Snippet: Simple HTML5 Boilerplate"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"new b",
+				"Git: New Branch"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"git pu",
+				"Git: Pull Using Rebase"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"delete",
+				"Git: Delete Branch"
+			],
+			[
+				"check",
+				"Git: Checkout"
+			],
+			[
+				"git che",
+				"Git: Checkout"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git fe",
+				"Git: Fetch"
+			],
+			[
+				"q",
+				"Git: Quick Commit"
+			],
+			[
+				"add ",
+				"Git: Add..."
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git bra",
+				"Git: Change Branch"
+			],
+			[
+				"quci",
+				"Git: Quick Commit"
+			],
+			[
+				"delet",
+				"Git: Delete Branch"
+			],
+			[
+				"new ",
+				"Git: New Branch"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"git licen",
+				"SublimeGit: Add License"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"gcus",
+				"Git: Custom Command"
+			],
+			[
+				"git new ",
+				"Git: New Branch"
+			],
+			[
+				"git pus",
+				"Git: Push Tags"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"branch",
+				"Git: Merge Branch"
+			],
+			[
+				"git mer",
+				"Git: Merge"
+			],
+			[
+				"qc",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"dele",
+				"Git: Delete Branch"
+			],
+			[
+				"git bran",
+				"Git: Delete Branch"
+			],
+			[
+				"push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"checkout",
+				"Git: Checkout"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"quc",
+				"Git: Quick Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"set syntax mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"cust",
+				"Git: Custom Command"
+			],
+			[
+				"custo",
+				"Git: Custom Command"
+			],
+			[
+				"custom",
+				"Git: Custom Command"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"pull ",
+				"Git: Pull"
+			],
+			[
+				"git command",
+				"Git: Custom Command"
+			],
+			[
+				"git",
+				"Git: Remote"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"script",
+				"Snippet: <script>"
+			],
+			[
+				"can",
+				"SFTP: Cancel Upload"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Troels/Documents/Websites/neutralisterne"
+	],
+	"file_history":
+	[
+		"/Users/Troels/Documents/Websites/neutralisterne/neutral.json",
+		"/Users/Troels/Documents/Websites/neutralisterne/bot.js",
+		"/Users/Troels/Documents/Websites/neutralisterne/changelog.txt",
+		"/Users/Troels/Documents/Websites/neutralisterne/neutraliserne.sublime-project",
+		"/Users/Troels/Documents/Websites/neutralisterne/script.js",
+		"/Users/Troels/Documents/Websites/neutralisterne/neutral.js",
+		"/Users/Troels/Documents/Websites/Wign/efterlys.php",
+		"/Users/Troels/Documents/Websites/Wign/tegn.php",
+		"/Users/Troels/Documents/Websites/Wign/README.md",
+		"/Users/Troels/Documents/Websites/Wign/mysql_schema.sql",
+		"/Users/Troels/Documents/Websites/Wign/old_index.html",
+		"/Users/Troels/Library/Caches/Cleanup At Startup/Transmit/D3A2CD04-22A2-4454-AC56-631EF61050B1/common.php",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_normalize.scss",
+		"/Users/Troels/Documents/Websites/Wign/common/medoo-min.php",
+		"/Users/Troels/Documents/Websites/Wign/.gitignore",
+		"/Users/Troels/Documents/Websites/Wign/common/medoo-min_sample.php",
+		"/Users/Troels/Documents/Websites/Wign/documentations/interne.txt",
+		"/Users/Troels/Documents/Websites/Wign/sftp-config.json",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_mixins.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/quarks/_typography.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_variables.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_debug.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_helper.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/quarks/_links.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_shared.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/atoms/_layouts.scss",
+		"/Users/Troels/Documents/Websites/Wign/index.html",
+		"/Users/Troels/Documents/Websites/Wign/sass/quarks/_base.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/style.scss",
+		"/Users/Troels/Documents/Websites/Wign/sass/atoms/_images.scss",
+		"/Users/Troels/Documents/Websites/Wign/css/style.css",
+		"/Users/Troels/Documents/Websites/Wign/sass/utilities/_reset.scss",
+		"/Users/Troels/Documents/Websites/vertigo/Vertigo2/css/style.css",
+		"/Users/Troels/Documents/Websites/vertigo/Vertigo2/js/script.js",
+		"/Users/Troels/Documents/Websites/Wign/record/index.html",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/Users/Troels/Documents/Websites/Wign/record/simpleRecorder.swf",
+		"/Users/Troels/Documents/Websites/Wign/record/simpleRecorder.html",
+		"/Users/Troels/Downloads/trunk/recorder/index.html",
+		"/Users/Troels/Downloads/trunk/index.html",
+		"/Users/Troels/Downloads/jwplayer/jwplayer.js",
+		"/Users/Troels/Documents/Websites/Wign/record/assets/swfobject.js",
+		"/Users/Troels/Downloads/red5recorder/libs/red5-server-1.0.2-RC4/webapps/red5-default.xml",
+		"/Users/Troels/Documents/Websites/Wign/record",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Users/Troels/Documents/Websites/Wign/README.html",
+		"/Users/Troels/Documents/Websites/Wign/documentations/Amazon EC2 instance.txt",
+		"/Users/Troels/Documents/Websites/Wign/documentations/installing red5.txt",
+		"/Volumes/Macintosh HD/Users/Troels/Downloads/tmp/red5.properties",
+		"/Users/Troels/Downloads/Mine studieaktiviteter ver. 13.3.5.4.0  Resultater.html",
+		"/Users/Troels/Documents/Websites/onsker/FTP/common/db_mysql.php",
+		"/Users/Troels/Documents/Websites/ddp1/HTML/script.js",
+		"/Users/Troels/Downloads/Mine studieaktiviteter ver. 13.3.5.4.0  Resultater_files/stylesheet.css",
+		"/Users/Troels/Documents/Websites/ddp1/HTML/style.scss",
+		"/Users/Troels/Documents/Websites/ddp1/HTML/sftp-config.json",
+		"/Users/Troels/Documents/Websites/ddp1/HTML/index.html",
+		"/Users/Troels/Documents/Websites/onsker/FTP/sftp-config.json",
+		"/Users/Troels/Documents/web/poem/script.js",
+		"/Users/Troels/Documents/Websites/onsker/FTP/common/config.php",
+		"/Users/Troels/Documents/Websites/onsker/FTP/common/common.php",
+		"/Users/Troels/Documents/Websites/onsker/ftp/sftp-config.json",
+		"/Users/Troels/Documents/Websites/onsker/sftp-config.json",
+		"/Users/Troels/Documents/web/poem/typetext.js",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Installed Packages/Theme - Glacier.sublime-package",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Cache/Theme - Glacier/glacier.tmTheme.cache",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Cache/Theme - Glacier/Glacier/Widget - Glacier.stTheme.cache",
+		"/Users/Troels/Public/Drop Box/WebstormProjects/Ex_3/functions.js",
+		"/Users/Troels/Documents/web/digital poem/typetext.js",
+		"/Users/Troels/Documents/web/digital poem/script.js",
+		"/Users/Troels/Documents/web/digital poem/index.html",
+		"/Users/Troels/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Volumes/MCCS6LS16/Crack-OSX/disable_activation_osx"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{ ",
+			"  \"after\":",
+			"\" ,",
+			"\"before\":",
+			", after: ",
+			"nyOrd[] = {before: ",
+			"'",
+			"!default",
+			"[]",
+			"*",
+			".",
+			"[[",
+			"emails += \"",
+			"betItems += \"",
+			"higher",
+			"noplayButton",
+			"playButton",
+			"play",
+			"noplay",
+			"play",
+			"nobet",
+			"noBet",
+			"./Mine studieaktiviteter ver. 13.3.5.4.0  Resultater_files/",
+			"Glacier.sublime-theme"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"output.git-push":
+	{
+		"height": 116.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "neutraliserne.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
